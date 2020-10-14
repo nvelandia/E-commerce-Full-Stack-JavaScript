@@ -15,6 +15,8 @@ import REDUX from './REDUX.png'
 import SEQUELIZE from './SEQUELIZE.svg'
 import SCRUM from './SCRUM.svg'
 
+
+
 const boxStyle = {
     border: '1px solid black'
 }

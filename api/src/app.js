@@ -6,6 +6,8 @@ const routes = require('./routes/index.js');
 var cors = require('cors');
 
 
+
+
 require('./db.js');
 
 const server = express();
