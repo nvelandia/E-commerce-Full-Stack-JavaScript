@@ -10,6 +10,7 @@ import { loadUserData } from '../../redux/actions/auth';
 import { fetchUserCart } from '../../redux/actions/cart';
 import { FcGoogle } from 'react-icons/fc'
 function Google (props) {
+    
     const { loadUserData, fetchUserCart } = props;
     const history = useHistory();
 
