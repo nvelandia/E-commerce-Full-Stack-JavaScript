@@ -1,4 +1,5 @@
-E-commerce desde cero con JavaScript Full Stack.
+<h1>E-commerce</h1> 
+Proyecto desde cero con JavaScript Full Stack utilizando metodologías ágiles (SCRUM).
 <hr>
 
 Front-End <br>
