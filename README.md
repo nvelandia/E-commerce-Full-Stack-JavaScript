@@ -1,6 +1,6 @@
 E-commerce desde cero con JavaScript Full Stack.
 
-Front-End 
+Front-End <hr>
 Redux, Bootstrap, Materialize, Sass, CSS integrada con Google y Github para hacer el login.
 
 Back-End
