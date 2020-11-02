@@ -4,9 +4,21 @@ Proyecto desde cero con JavaScript Full Stack utilizando metodologías ágiles (
 ## Front-End
 - JavaScript
 - React
+- Redux
+- Bootstrap
+- Materialize
+- Sass
+- HTML
+- CSS
 
-Front-End <br>
-Redux, Bootstrap, Materialize, Sass, CSS integrada con Google y Github para hacer el login.
+## Back-End
+- Node js
+- Express
+- ORM Sequelize
+- JWT
+- Nodemailer
 
-Back-End <br>
-Nodejs, Express, ORM Sequelize, SQL, PostgreSQL, Nodemailer y JWT para la autenticación.
+## Database
+- PostgreSQL
+
+integrada con Google y Github para hacer el login.
