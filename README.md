@@ -3,14 +3,14 @@ Proyecto académico, desde cero con JavaScript Full Stack utilizando metodologí
 E-commerce de productos de tecnología, integrada con Google y Github para hacer el login.
 
 ### Front-End
-- JavaScript
-- React
-- Redux
-- Bootstrap
-- Materialize
-- Sass
-- HTML
-- CSS
++ JavaScript
++ React
++ Redux
++ Bootstrap
++ Materialize
++ Sass
++ HTML
++ CSS
 
 ### Back-End
 - Node js
