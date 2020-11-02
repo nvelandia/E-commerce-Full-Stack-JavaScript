@@ -1,4 +1,4 @@
-<h1>E-commerce</h1> 
+# E-commerce
 Proyecto desde cero con JavaScript Full Stack utilizando metodologías ágiles (SCRUM).
 <hr>
 
