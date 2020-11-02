@@ -2,18 +2,18 @@
 Proyecto académico, E-commerce de productos de tecnología, desde cero con JavaScript Full Stack utilizando metodologías ágiles (SCRUM).
 
 + Front-End
-* CSS | HTML | JavaScript
-* React | Redux
-* Bootstrap | Materialize
-* Sass
+    * CSS | HTML | JavaScript
+    * React | Redux
+    * Bootstrap | Materialize
+    * Sass
 
 + Back-End
-* Node.js | Express.js
-* JWT
-* Nodemailer
+    * Node.js | Express.js
+    * JWT
+    * Nodemailer
 
 + Database
-* PostgreSQL | ORM Sequelize
+    * PostgreSQL | ORM Sequelize
 
 ## Funcionalidad
 
