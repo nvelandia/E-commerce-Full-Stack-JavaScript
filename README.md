@@ -15,6 +15,7 @@ Proyecto académico, E-commerce de productos de tecnología, desde cero con Java
 ### Database
 - PostgreSQL | ORM Sequelize
 
+## Funcionalidad
 
 ***Usuario***
 
