@@ -1,5 +1,5 @@
 # E-commerce
-Proyecto académico, E-commerce de productos de tecnología, desde cero con JavaScript Full Stack utilizando metodologías ágiles (SCRUM).
+Proyecto académico de productos de tecnología, desde cero con JavaScript Full Stack utilizando metodologías ágiles (SCRUM).
 
 + Front-End
     * CSS | HTML | JavaScript
@@ -15,7 +15,9 @@ Proyecto académico, E-commerce de productos de tecnología, desde cero con Java
 + Database
     * PostgreSQL | ORM Sequelize
 
+
 ## Funcionalidad
+
 
 ***Usuario***
 
@@ -24,6 +26,7 @@ El usuario puede comprar, buscar productos por categoría y nombre. Agregar y el
 ![](https://i.postimg.cc/BJRSPwyR/user.png)
 
 ***Administrador*** 
+
 
 El administrador puede agregar, editar, eliminar productos, usuarios, categorías y ordenes. Otorgar permisos de administrador a diferentes usuarios. Puede administrar ordenes y tiene todas las funcionalidades de un usuario común.
 
