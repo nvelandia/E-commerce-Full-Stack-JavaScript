@@ -1,7 +1,8 @@
 # E-commerce
-Proyecto desde cero con JavaScript Full Stack utilizando metodologías ágiles (SCRUM).
+Proyecto académico, desde cero con JavaScript Full Stack utilizando metodologías ágiles (SCRUM).
+E-commerce de productos de tecnología, integrada con Google y Github para hacer el login.
 
-## Front-End
+### Front-End
 - JavaScript
 - React
 - Redux
@@ -11,14 +12,14 @@ Proyecto desde cero con JavaScript Full Stack utilizando metodologías ágiles (
 - HTML
 - CSS
 
-## Back-End
+### Back-End
 - Node js
 - Express
 - ORM Sequelize
 - JWT
 - Nodemailer
 
-## Database
+### Database
 - PostgreSQL
 
-integrada con Google y Github para hacer el login.
+
